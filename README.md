@@ -76,13 +76,13 @@
 <br/>  
 
 
-## Github Stats  
+<!-- ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirdch183&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
+<br/>  -->
 
+## Stats
 
-## Recent Blog Posts  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -159,7 +159,12 @@ RouterOS Script          1 repo              █░░░░░░░░░░�
  Last Updated on 19/09/2025 11:41:00 UTC
 <!--END_SECTION:waka-->
 
-<br/>  
+<br/>
+
+<!-- ## Recent Blog Posts  
+
+
+<br/>  -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=smirdch183&&style=flat-square" align="center" />
