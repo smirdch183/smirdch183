@@ -84,8 +84,6 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
 
 **🐱 My GitHub Data** 
@@ -100,45 +98,6 @@
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-🌆 Daytime                119 commits         █████████████████████░░░░   85.00 % 
-🌃 Evening                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Tuesday                  42 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Wednesday                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Thursday                 22 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Friday                   25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -156,7 +115,7 @@ RouterOS Script          1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/smirdch183/smirdch183/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 01:27:52 UTC
+ Last Updated on 03/10/2025 01:27:30 UTC
 <!--END_SECTION:waka-->
 
 <br/>
